@@ -1,0 +1,16 @@
+/*!**********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss ***!
+  \**********************************************************************************************************************************************************/
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  line-height: 1.5; }
+
+body {
+  font-size: 24px;
+  background-color: #000;
+  color: #fff; }
+
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3NzL2luZGV4LmNzcyIsIm1hcHBpbmdzIjoiOzs7QUFBQTtFQUNJLFNBQVM7RUFDVCxVQUFVO0VBQ1YsYUFBYTtFQUNiLGdCQUFnQjs7QUFHcEI7RUFDSSxlQUFlO0VBQ2Ysc0JBQXNCO0VBQ3RCLFdBQVciLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly93ZWJwYWNrLWluaXQtc3RhcnRlci8uL3NyYy9zdHlsZXMvaW5kZXguc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIqIHtcclxuICAgIG1hcmdpbjogMDtcclxuICAgIHBhZGRpbmc6IDA7XHJcbiAgICBvdXRsaW5lOiBub25lO1xyXG4gICAgbGluZS1oZWlnaHQ6IDEuNTtcclxufVxyXG5cclxuYm9keSB7XHJcbiAgICBmb250LXNpemU6IDI0cHg7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDAwO1xyXG4gICAgY29sb3I6ICNmZmY7XHJcbn0iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=*/
